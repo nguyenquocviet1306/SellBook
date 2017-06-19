@@ -1,0 +1,22 @@
+.footer {
+    width : 1000px;
+    height : 65px;
+    background: url(../images/footer_bg.gif) repeat-x top;
+}
+.left_footer {
+    float : left;
+    width : 300px;
+    padding : 0px 0 0 0px;
+}
+.right_footer {
+    float : right;
+  
+    padding : 0px 0px 0 0;
+}
+.center_footer {
+    float : left;
+    width : 200px;
+    text-align : center;
+    color: #777777;
+    padding : 10px 0 0 60px;
+}

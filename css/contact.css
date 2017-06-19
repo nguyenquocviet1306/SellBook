@@ -1,0 +1,109 @@
+/*CSS for Contact*/
+.prod_box_big{
+  width : 554px;
+  height : auto;
+  float : left;
+  padding : 10px 10px 10px 15px;  
+}
+.top_prod_box_big {
+    width : 554px;
+    height : 12px;
+    float : left;
+    background : url(../images/details_box_top.gif) no-repeat center bottom;
+    padding: 0px;
+	margin: 0px;
+}
+
+.bottom_prod_box_big {
+    width : 554px;
+    height : 12px;
+    float : left;
+    background : url(../images/details_box_bottom.gif) no-repeat center top;
+    padding: 0px;
+	margin: 0px;
+}
+
+.center_prod_box_big {
+    width : 554px;
+    height : auto;
+    float : left;
+    background : url(../images/details_box_center.gif) repeat-y ;
+    text-align: center ;
+    padding: 0px;
+	margin: 0px;
+}
+.contact_form{
+    width : 355px;
+    float : left;
+    padding : 0px 0 0 75px;  
+}
+.form_row{
+    width : 355px;
+    color : #a123df;
+    padding : 20px ;
+    
+    
+    
+
+}
+label.contact{
+    width : 75px;
+    float : left;
+    font-size:  12px;
+    text-align : right;
+    color : #123;
+    padding : 4px 5px 0 0 ;
+}
+input.contact_input{
+    width : 253px;
+    height : 18px;
+    background : #fff;
+    color : #999;
+    border : 1px #dfdfdf solid;
+    float : left;
+}
+.textarea.contact_textarea{
+    width : 253px;
+    height : 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size : 12px;
+     background : #fff;
+    color : #999;
+    border : 1px #dfdfdf solid;
+    float : left;
+    min-width : 253px;
+    max-width : 253px;
+    
+}
+a.contact {
+    background : url(../images/contact_bt.gif) no-repeat left ;
+    width : 130px;
+    height : 27px;
+    display : block;
+    float : right;
+    text-decoration: none;
+    margin: 0 0 0 10px;
+    line-height : 27px;
+    color : #41ca23;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
